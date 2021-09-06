@@ -1,3 +1,3 @@
 #!/usr/bin/python3
 number = 98
-print("{:d} Battery Percent".format(number))
+print("{0:d} Battery Percent".format(number))
