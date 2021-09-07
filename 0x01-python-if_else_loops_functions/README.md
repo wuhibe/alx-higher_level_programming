@@ -13,7 +13,7 @@ The source code has to follow certain rules:
  * Should end with new line.
  * Must be executable.
 
-## For Shell Scripts
+## For C Scripts
  * Scripts will be compiled with:
 ```bash
 gcc -Wall -Werror -Wextra -pedantic
