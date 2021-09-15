@@ -8,3 +8,5 @@ def weight_average(my_list=[]):
             denom += i[1]
             summ += i[0] * i[1]
         return summ/denom
+    else:
+        return 0
