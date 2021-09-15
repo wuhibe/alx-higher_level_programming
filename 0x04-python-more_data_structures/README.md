@@ -1,4 +1,4 @@
-# 0x02. Python - More Data Structures: Set, Dictionary
+# 0x04. Python - More Data Structures: Set, Dictionary
 
 This is an **ALX School**  project on More Data Structures: Set, Dictionary on python.
 
