@@ -1,6 +1,6 @@
-# 0x02. Python - Exceptions
+# 0x02. Python - Classes
 
-This is an **ALX School**  project on exceptions on python.
+This is an **ALX School**  project on classes on python.
 
 The source code has to follow certain rules:
 
