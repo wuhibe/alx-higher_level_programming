@@ -1,6 +1,6 @@
-# 0x03. Python - Data Structures: Lists, Tuples
+# 0x08. Python - More Classes and Objects
 
-This is an **ALX School**  project on Data Structures: Lists, Tuples on python.
+This is an **ALX School**  project on Python More Classes and Objects.
 
 The source code has to follow certain rules:
 
