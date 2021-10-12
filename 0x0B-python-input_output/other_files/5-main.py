@@ -6,7 +6,7 @@ my_list = [1, 2, 3]
 save_to_json_file(my_list, filename)
 
 filename = "my_dict.json"
-my_dict = {
+my_dict = { 
     'id': 12,
     'name': "John",
     'places': [ "San Francisco", "Tokyo" ],
