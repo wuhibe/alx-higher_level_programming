@@ -1,7 +1,7 @@
 #!/usr/bin/python3
-def filter_state():
-    import sys
-    import MySQLdb
+import sys
+import MySQLdb
+if __name__ == "__main__":
     db = MySQLdb.connect(host='localhost', port=3306, user=sys.argv[1],
                          passwd=sys.argv[2], db=sys.argv[3], charset="utf8")
     cur = db.cursor()
@@ -11,7 +11,3 @@ def filter_state():
         print(state)
     cur.close()
     db.close()
-
-
-if __name__ == "__main__":
-    filter_state()
