@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-''' script for task 3 '''
+''' script for task 5 '''
 
 
 import sys
