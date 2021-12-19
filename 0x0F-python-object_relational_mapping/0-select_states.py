@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+''' script for task 0 '''
 import MySQLdb
 import sys
 
