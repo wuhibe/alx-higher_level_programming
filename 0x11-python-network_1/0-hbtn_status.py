@@ -2,8 +2,9 @@
 '''
 script that fetches https://intranet.hbtn.io/status
 '''
+import urllib.request as req
+
 if __name__ == '__main__':
-    import urllib.request as req
     with req.urlopen('https://intranet.hbtn.io/status') as res:
         content = res.read()
         print("Body response:")
