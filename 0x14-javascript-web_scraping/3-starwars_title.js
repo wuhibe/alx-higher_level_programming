@@ -6,7 +6,7 @@ request(url, function (error, response, body) {
   if (error) {
     console.log(error);
   } else {
-    let abc = JSON.parse(body);
+    const abc = JSON.parse(body);
     console.log(abc.title);
   }
 });
