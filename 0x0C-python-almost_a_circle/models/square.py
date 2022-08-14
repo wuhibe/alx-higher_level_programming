@@ -24,8 +24,9 @@ class Square(Rectangle):
     def size(self, value: int):
         """size setter
         """
+        self.check_type_value('size', value)
         self.__size = value
-        self.width = self.height = value
+        self.__width = self.__height = value
 
     def __str__(self) -> str:
         """string representation"""
