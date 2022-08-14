@@ -19,5 +19,6 @@ class TestSquare(unittest.TestCase):
 
         self.assertRaises(TypeError, Square)
 
+
 if __name__ == '__main__':
     unittest.main()

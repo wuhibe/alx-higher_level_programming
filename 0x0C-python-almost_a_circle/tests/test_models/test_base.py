@@ -22,5 +22,6 @@ class TestBase(unittest.TestCase):
     def test_to_json_string_valid(self):
         pass
 
+
 if __name__ == '__main__':
     unittest.main()
